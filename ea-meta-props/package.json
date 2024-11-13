@@ -1,0 +1,22 @@
+{
+  "name": "ea-meta-props",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@wordpress/components": "^28.13.0",
+    "@wordpress/data": "^10.13.0",
+    "@wordpress/editor": "^14.13.0",
+    "@wordpress/element": "^6.13.0",
+    "@wordpress/i18n": "^5.16.0",
+    "@wordpress/plugins": "^7.13.0",
+    "@wordpress/scripts": "^30.6.0"
+  }
+}
